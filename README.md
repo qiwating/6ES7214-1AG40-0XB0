@@ -1,6 +1,6 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.eusens.com/), [spacefarm.digital](https://www.spacefarm.digital).for promotion of site [Guangzhou Eusens Technology Co.,Ltd](http://www.eusens.com/)
 
 ## Getting started
 
